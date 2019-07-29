@@ -23,6 +23,7 @@
   justify-content: space-between;
   flex-wrap: wrap;
   display: flex;
+
 }
 
 .row {
@@ -34,7 +35,7 @@
 }
 
 body{
-  background-color: #AECAE8;
+background-color: #AECAE8;
   display: block;
 }
 h1 {
@@ -49,7 +50,7 @@ h1 {
 .top img {
   height:80px;width: 1500px;
 }
-@media screen and (max-width: 1350px) {
+@media screen and (max-width: 1100px) {
   body{
   background-color: #B6BFBE;
 }
